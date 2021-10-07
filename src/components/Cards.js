@@ -19,7 +19,7 @@ const Cards = () => {
             { columns.map((principal) => 
               <>
               <Card principal={principal}/>
-              <div className="col-md-1"></div>
+              <div className="d-xs-none d-sm-none  col-md-1 "></div>
               </>
                 ) }
             </div>
