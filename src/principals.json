@@ -1,0 +1,31 @@
+
+{
+"principals":[
+{   "id":1,    
+    "name":"Collaboration",
+    "principal":"We are more than the sum of our individual parts. We work closely with one another to achieve shared goals relying on mutual trust, respect and knowledge sharing."
+   , "icon":""
+},
+{    "id":2,    
+      "name":"Commitment",
+    "principal":"We are committed to being the best that we can be through dedication and smart work.  We take ownership and accountability of our work and deliver on our word, no matter what"
+},
+{    "id":3,     
+     "name":"Customer Centricity",
+    "principal":"We strive to adapt rapidly and flexibly to market and environmental changes; offering our customers superior solutions and services to meet their needs, create business value and empower them to be more competitive"
+},
+{    "id":4,   
+       "name":"Employee Engagement",
+    "principal":"We value our people and strive to make them proud to be part of STS. We empower them with a holistic environment, providing them with respect, responsibility, autonomy, and the tools they need to inspire and motivate them to realize their full potential, professionally and personally, while remaining true to their uniqueness"
+},
+{    "id":5,    
+      "name":"Excellence",
+    "principal":"We pursue excellence in everything we do. We strive to serve our customers through innovation and continuous improvement and are passionate about People, Process, Product and Service Excellence"
+},
+{    "id":6,    
+      "name":"Innovation",
+    "principal":"We foster a culture that supports agility and creativity; offering mentorship, addressing challenges and providing the tools needed to transform ideas into reality."
+}
+
+]
+}
